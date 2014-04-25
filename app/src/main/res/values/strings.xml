@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shakit Example</string>
+
+    <string name="shakit_generating_log_file">Please wait while we generate the logs...</string>
+    <string name="shakit_alert_dialog_title">Shake Detected</string>
+    <string name="shakit_alert_dialog_message">Seems you are shaking your device, would you like to send feedback?</string>
+    <string name="shakit_alert_dialog_positive_message">Send</string>
+    <string name="shakit_alert_dialog_neutral_message">Don\'t Send</string>
+    <string name="shakit_alert_dialog_negative_message">Don\'t Show This</string>
+    <string name="shakit_email_chooser_title">Send email using...</string>
+    <string name="shakit_email_subject">Shakit Example Feedback</string>
+    <string name="shakit_email_body_prefix">Dear support team,\n\n</string>
+
+</resources>
